@@ -44,12 +44,27 @@
                     <view key="view" contentMode="scaleToFill" id="5yg-uE-mKC">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="9C0-2h-W10">
+                                <rect key="frame" x="180" y="338" width="247" height="210"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_5745" translatesAutoresizingMaskIntoConstraints="NO" id="J40-UI-IrV">
+                                <rect key="frame" x="180" y="75" width="247" height="220"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" red="0.29803922772407532" green="0.29803922772407532" blue="0.29803922772407532" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
+                    <connections>
+                        <outlet property="bottomImage" destination="9C0-2h-W10" id="aQ8-Ib-ONG"/>
+                        <outlet property="topImage" destination="J40-UI-IrV" id="CrI-IX-Tij"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Y73-UJ-Uqo" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="823" y="402"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="IMG_5745" width="2448" height="3264"/>
+    </resources>
 </document>
