@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "17B54F8D3BB3FB96E89F1DC3551023B07B632C5D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8A684E981FC44126AEF3CEC6CD97D56F2833649A" : 0,
+    "17B54F8D3BB3FB96E89F1DC3551023B07B632C5D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6A0CC2E0-B505-41BB-A0AD-A9178351DA65",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8A684E981FC44126AEF3CEC6CD97D56F2833649A" : "",
+    "17B54F8D3BB3FB96E89F1DC3551023B07B632C5D" : "Transistions\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Transistions",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Transistions.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnathanFlint\/Transistions.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17B54F8D3BB3FB96E89F1DC3551023B07B632C5D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnathanFlint\/String-Playgroung.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A684E981FC44126AEF3CEC6CD97D56F2833649A"
+    }
+  ]
+}
